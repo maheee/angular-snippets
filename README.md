@@ -1,6 +1,9 @@
 # angular-snippets
 
 ## Observable Input
+### Description
+### Source
+- [observable-input.ts](./observable-input.ts)
 ### Usage Example
 ```
 <app-component [testInput]="'Hello World'"></app-component>
